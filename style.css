@@ -1,0 +1,82 @@
+    p{
+        color:cyan;
+        justify-content: left;
+        justify-content: space-evenly;
+        font-family: fantasy;
+        font-size: x-large;
+        font-synthesis: style; 
+        text-decoration-line : underline ;
+        opacity: 1;
+        border: cyan;
+    }
+    p:hover{
+        opacity: 0;
+    }
+    h1{
+        color: cyan;
+        text-align: center;
+        font-family: fantasy;
+        text-decoration: dotted;
+        opacity: 1;
+    }
+    h1:hover{
+        opacity:0;
+    }
+    h1{
+        font-family: fantasy;
+        text-align: center;
+        border: dashed;
+    }
+    body{
+        background-color: darkslateblue;
+    }
+    .Runner{
+        display:flex;
+        justify-content: space-evenly;
+        padding: 2cm;
+        opacity: 1;
+    }
+    .Runner:hover{
+        opacity: 0;
+    }
+    .Own{
+        display:flex;
+        justify-content: space-evenly;
+        padding: 2cm;
+        opacity: 1;
+    }
+    .Own:hover{
+        opacity: 0;
+    }
+    .Plinko{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 2cm;
+        opacity: 1;
+    }
+    .Plinko:hover{
+        opacity: 0;
+    }
+    .Hardest{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 2cm;
+        opacity: 1;
+    }
+    .Hardest:hover{
+        opacity: 0;
+    }
+    .Instagram{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 2cm;
+        opacity: 1;
+    }
+    .Instagram:hover{
+        opacity: 0;
+    }
+    .Welcome{
+        display: flex;
+        justify-content: space-evenly;
+        padding-left: 50;   
+    }
